@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Airport/ndb.ac -130.423889 54.263333 17.96 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -130.387778 54.298333 -98.51 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -130.376111 54.285278 -70.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -130.315 54.284444 530.82 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -130.450556 54.290556 28.66 180
+OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml -130.360821 54.285934 -3 175
+OBJECT_SHARED Models/Maritime/Civilian/LargeFerry.xml -130.354148 54.29817 -0.01 113
+OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml -130.360725 54.28662 26 0
+OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml -130.354178 54.2982 15 0
+OBJECT_SHARED Models/Industrial/ContainerCrane.xml -130.359956 54.285452 0 355
+OBJECT_SHARED Models/Industrial/ContainerCrane.xml -130.359849 54.286329 0 355
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -130.355295 54.288064 -75 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -130.355166 54.288361 -75 0

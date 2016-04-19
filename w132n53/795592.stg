@@ -1,0 +1,2 @@
+OBJECT_SHARED Models/Airport/ndb.ac -131.777222 53.196111 2.97 180
+OBJECT_SHARED Models/Airport/localizer.xml -131.805298 53.247169 6.6 234.56
