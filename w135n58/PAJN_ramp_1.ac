@@ -1,0 +1,86 @@
+AC3Db
+MATERIAL "" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0 0 0  shi 128  trans 0
+OBJECT world
+kids 1
+OBJECT group
+name "ramp_1.obj"
+kids 1
+OBJECT group
+name "Default LOD"
+kids 1
+OBJECT poly
+name "POLY_OS=0 HARD= BLEND=yes"
+data 95
+poly_os=0.000000
+blend=-1.000000
+hard_surf=
+deck=0
+mod_lit=0
+wall=0
+draw_disable=0
+manip_type=0
+texture "PAJN_ramp_11.png"
+crease 45.000000
+numvert 12
+-23.89 4.6e-007 10.4423
+-23.89 1.04e-006 23.7054
+0 4.6e-007 10.4423
+0 1.04e-006 23.7054
+23.89 1.04e-006 23.7054
+23.89 4.6e-007 10.4423
+-23.89 -1.05e-006 -24.0747
+-23.89 4.6e-007 10.4423
+0 -1.05e-006 -24.0747
+0 4.6e-007 10.4423
+23.89 4.6e-007 10.4423
+23.89 -1.05e-006 -24.0747
+numsurf 8
+SURF 0x10
+mat 0
+refs 3
+2 0.5 0.277631
+0 9.998e-005 0.277631
+1 9.998e-005 0.00010006
+SURF 0x10
+mat 0
+refs 3
+1 9.998e-005 0.00010006
+3 0.5 0.00010002
+2 0.5 0.277631
+SURF 0x10
+mat 0
+refs 3
+5 0.9999 0.277631
+2 0.5 0.277631
+3 0.5 0.00010002
+SURF 0x10
+mat 0
+refs 3
+3 0.5 0.00010002
+4 0.9999 9.998e-005
+5 0.9999 0.277631
+SURF 0x10
+mat 0
+refs 3
+8 0.5 0.9999
+6 9.998e-005 0.9999
+7 9.998e-005 0.277631
+SURF 0x10
+mat 0
+refs 3
+7 9.998e-005 0.277631
+9 0.5 0.277631
+8 0.5 0.9999
+SURF 0x10
+mat 0
+refs 3
+11 0.9999 0.9999
+8 0.5 0.9999
+9 0.5 0.277631
+SURF 0x10
+mat 0
+refs 3
+9 0.5 0.277631
+10 0.9999 0.277631
+11 0.9999 0.9999
+kids 0
