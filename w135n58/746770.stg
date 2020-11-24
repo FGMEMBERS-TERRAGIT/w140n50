@@ -4,3 +4,15 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -134.442222 58.301111 -88.4
 OBJECT_SHARED Models/Communications/radio-medium.xml -134.424167 58.300833 -132.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -134.395556 58.289167 -119.54 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -134.391389 58.286389 -118.63 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -134.49793 58.33134 0.00 320.06
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -134.49757 58.33206 10.24 82.65
+OBJECT_SHARED Models/lib/cars7.ac -134.49838 58.33191 2.32 53.06
+OBJECT_SHARED Models/lib/stack_of_cones.ac -134.49664 58.33155 2.47 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -134.49647 58.33172 1.99 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -134.49723 58.33190 0.28 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -134.49684 58.33220 1.45 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -134.49729 58.33225 1.28 0
+# END dsf2stg
